@@ -8,7 +8,6 @@ The project was done by [Nguyễn Văn A](https://github.com/naa-ntu), in the co
 ## Tech Stack
 
 - [Java](https://www.java.com/en/) 
-- ...
 
 
 ## Software Design (UML)
